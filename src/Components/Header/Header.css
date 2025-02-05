@@ -1,0 +1,13 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+#header li{
+    list-style-type: none;
+}
+
+li a{
+    color: black;
+}

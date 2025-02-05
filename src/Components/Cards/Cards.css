@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+#cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 30px;
+}
+
+#img{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+}
